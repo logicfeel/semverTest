@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/logicfeel/semverTest/issues"
   },
-  "homepage": "https://github.com/logicfeel/semverTest#readme"
+  "homepage": "https://github.com/logicfeel/semverTest#readme",
+  "dependencies": {}
 }
